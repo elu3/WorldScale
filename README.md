@@ -1,1 +1,1 @@
-Projekt skalę obiektów we wszechświecie, wykorzystujący skalę logarytmiczną.
+Projekt skalujący obiekty we wszechświecie poprzez zastosowanie skali logarytmicznej.
